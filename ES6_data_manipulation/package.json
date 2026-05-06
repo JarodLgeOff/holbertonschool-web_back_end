@@ -1,0 +1,9 @@
+{
+  "name": "es6_data_manipulation",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ES6 data manipulation exercises",
+  "scripts": {
+    "dev": "node"
+  }
+}

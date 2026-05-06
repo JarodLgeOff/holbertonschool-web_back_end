@@ -1,0 +1,9 @@
+{
+  "name": "es6_basic",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ES6 basic exercises",
+  "scripts": {
+    "dev": "node"
+  }
+}
