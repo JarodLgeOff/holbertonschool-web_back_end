@@ -1,0 +1,9 @@
+{
+  "name": "es6_promise",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ES6 promise exercises",
+  "scripts": {
+    "dev": "node"
+  }
+}
