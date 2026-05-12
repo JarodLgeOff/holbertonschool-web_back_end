@@ -1,0 +1,9 @@
+{
+  "name": "node_js_basic",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js basic exercises",
+  "scripts": {
+    "dev": "node"
+  }
+}
